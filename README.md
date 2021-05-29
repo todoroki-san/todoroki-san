@@ -5,6 +5,7 @@ I don't know what to write on this page ... and what i'm doing in my life
 <div align="center">
 
 Knowledges:
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="40px"/>
 
 </div>
