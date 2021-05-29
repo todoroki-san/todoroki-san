@@ -11,6 +11,7 @@ Knowledges:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" width="40px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="40px"/>
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40px"/>
   
 These are my stats uwu:
 
