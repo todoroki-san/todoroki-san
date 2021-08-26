@@ -11,7 +11,7 @@ Knowledges:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="40px"/>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40px"/>
   
-These are my stats uwu:
+These are my stats:
 
 [![(っ◔◡◔)っ♥ CRYPTY ♥'s gitHub stats](https://github-readme-stats.vercel.app/api?username=im-a-nerd&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats) [![(っ◔◡◔)っ♥ CRYPTY ♥'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-a-nerd&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
